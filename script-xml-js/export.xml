@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweetys_db_export>
+  <clientes>
+    <cliente id="1">
+      <nom>Kouassi</nom>
+      <prenom>Amina</prenom>
+      <telephone>0708091011</telephone>
+      <email>amina@email.com</email>
+      <rendez_vous_liste>
+        <rendez_vous id="1">
+          <service>Tresses africaines</service>
+          <prix>25000.00</prix>
+          <date_heure>Sat Aug 15 2026 10:00:00 GMT+0000 (heure moyenne de Greenwich)</date_heure>
+          <statut>termine</statut>
+        </rendez_vous>
+      </rendez_vous_liste>
+    </cliente>
+    <cliente id="2">
+      <nom>Koné</nom>
+      <prenom>Fatou</prenom>
+      <telephone>0506070809</telephone>
+      <email>fatou@email.com</email>
+      <rendez_vous_liste>
+        <rendez_vous id="2">
+          <service>Soin de visage éclat</service>
+          <prix>18000.00</prix>
+          <date_heure>Wed Aug 05 2026 14:30:00 GMT+0000 (heure moyenne de Greenwich)</date_heure>
+          <statut>planifie</statut>
+        </rendez_vous>
+      </rendez_vous_liste>
+    </cliente>
+    <cliente id="3">
+      <nom>Yao</nom>
+      <prenom>Grace</prenom>
+      <telephone>0102030405</telephone>
+      <email>grace@email.com</email>
+      <rendez_vous_liste>
+        <rendez_vous id="3">
+          <service>Pose vernis semi-permanent</service>
+          <prix>10000.00</prix>
+          <date_heure>Thu Aug 06 2026 11:00:00 GMT+0000 (heure moyenne de Greenwich)</date_heure>
+          <statut>planifie</statut>
+        </rendez_vous>
+      </rendez_vous_liste>
+    </cliente>
+  </clientes>
+  <services>
+    <service id="1">
+      <libelle>Soin de visage éclat</libelle>
+      <prix>18000.00</prix>
+    </service>
+    <service id="2">
+      <libelle>Pose vernis semi-permanent</libelle>
+      <prix>10000.00</prix>
+    </service>
+    <service id="3">
+      <libelle>Tresses africaines</libelle>
+      <prix>25000.00</prix>
+    </service>
+  </services>
+</sweetys_db_export>
